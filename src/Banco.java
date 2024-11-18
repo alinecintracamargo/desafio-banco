@@ -38,4 +38,17 @@ public class Banco {
             conta.imprimirinfosComuns();
         }
     }
+
+
+
+
+
+
+
+
+
+
+
+
+    
 }
